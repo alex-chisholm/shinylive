@@ -1,3 +1,3 @@
 matplotlib
 numpy
-shiny.express
+shiny
